@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test": "mocha test.js",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "dependencies": {
+    "busboy-body-parser": "^0.1.0",
+    "connect-busboy": "0.0.2",
+    "cors": "^2.8.0",
+    "jsonfile": "^3.0.0",
+    "jwt-simple": "^0.5.1"
+  }
+}
